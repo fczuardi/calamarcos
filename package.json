@@ -1,7 +1,6 @@
 {
   "name": "calamarcos",
   "version": "0.0.0",
-  "private": true,
   "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
   "description": "Calamarcos, hubot #1 da Calamar.",
   "dependencies": {
@@ -22,5 +21,11 @@
   },
   "engines": {
     "node": "0.10.x"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fczuardi/calamarcos.git"
+  },
+  "author": "Fabricio C Zuardi",
+  "license": "AGPL-3.0"
 }
