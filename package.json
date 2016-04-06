@@ -18,7 +18,7 @@
     "hubot-shell": "^1.0.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.2",
-    "hubot-twitter-search": "^1.0.3"
+    "hubot-twitter-search": "git+https://github.com/fczuardi/hubot-twitter-mention-v2.git"
   },
   "engines": {
     "node": "0.10.x"
@@ -27,5 +27,6 @@
     "type": "git",
     "url": "git+https://github.com/fczuardi/calamarcos.git"
   },
-  "license": "AGPL-3.0"
+  "license": "AGPL-3.0",
+  "devDependencies": {}
 }
